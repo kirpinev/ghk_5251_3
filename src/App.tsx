@@ -96,7 +96,7 @@ export const App = () => {
         <Typography.TitleResponsive
           font="system"
           tag="h3"
-          view="small"
+          view="medium"
           className={appSt.productsTitle}
         >
           Приложение в вашем стиле
@@ -104,7 +104,7 @@ export const App = () => {
         <Gap size={8} />
         <Typography.Text
           tag="p"
-          view="primary-medium"
+          view="primary-large"
           style={{ marginBottom: 0, padding: "0 1rem" }}
         >
           Оформите приложение под свой характер, вкус и настроение
